@@ -12,20 +12,17 @@ Google er spidsen, ikke en mur: kører I noget andet, finder vi den bedste — o
 
 Alt herinde følger den samme byggestandard: GitHub som single source of truth, adskilt sandbox og produktion, mobil **og** desktop, loading/tom/fejl-tilstande, GDPR og samtykke, secrets kun server-side, eget domæne + HTTPS. Ingen halve features — "klar" betyder testet og verificeret.
 
-### Udvalgte projekter
+### Projekter
 
 | Projekt | Hvad | |
 |---|---|---|
 | **[afgang](https://github.com/SLS-Tech-DK/afgang)** | Self-serve AI-analyser for webshops (salg, indkøb, lager, kunde, konkurrent, AI-synlighed). Gateway, betalingsflow og analyse-motor på Google Cloud. | |
 | **[stien](https://github.com/SLS-Tech-DK/stien)** | Crowdsourcet hul-anmeldelsesplatform for cyklister i København. Kort, geolokation, foto, bekræftelser. | [Live](https://stien.netlify.app) |
+| **[kniven-showcase](https://github.com/SLS-Tech-DK/kniven-showcase)** | Athlete intelligence — personaliseret trænings- og sundhedssoftware. App + salgsside; ML-motoren holdes privat. Under aktiv build. | |
 | **[flok](https://github.com/SLS-Tech-DK/flok)** | Webapp-prototype — fælles planlægning og koordinering. | |
 | **[katrine-eventmotor](https://github.com/SLS-Tech-DK/katrine-eventmotor)** | Event-motor, mindre eksperiment. | |
 
-### På vej
-
-**Kniven** — athlete intelligence: personaliseret trænings- og sundhedssoftware. Under build.
-
-Flere interne værktøjer og sideprojekter holdes private (kundedata, igangværende arbejde).
+Flere interne værktøjer og sideprojekter holdes private (kundedata, igangværende arbejde, produktkerner).
 
 ---
 
